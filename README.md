@@ -1,5 +1,7 @@
 Hi, I am Eugenia Musat.
+
 I am a Junior Software Developer based in Stockholm.
+
 Welcome to my profile.
 
 - I am a positive and goal oriented person.
