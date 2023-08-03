@@ -6,8 +6,8 @@ Welcome to my profile.
 
 - I am a positive and goal oriented person.
 - My main objective is to continue to develop my coding skills.
-- Experience with Languages: Python, HTML, CSS, JavaScript
-- Libraries and Frameworks: JQuery, Flask, Django
+- Experience with Languages: C#, Python, HTML, CSS, JavaScript
+- Libraries and Frameworks: JQuery, Flask, Django, Blazor
 
 You can reach me on: [LinkedIn](https://www.linkedin.com/in/eugenia-musat/)
 
@@ -17,7 +17,7 @@ You can reach me on: [LinkedIn](https://www.linkedin.com/in/eugenia-musat/)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
-
+![Csharp C#](https://img.shields.io/badge/Csharp%20-%23004D7A.svg?&style=for-the-badge&logo=csharp&logoColor=ffdf76)
  #### Libraries and Frameworks
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
@@ -39,3 +39,5 @@ You can reach me on: [LinkedIn](https://www.linkedin.com/in/eugenia-musat/)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
+![Render](https://img.shields.io/badge/Render%20-%23646EDE.svg?&style=for-the-badge&logo=Render&logoColor=FFFFFF) 
+
