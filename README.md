@@ -25,6 +25,8 @@ You can reach me on: [LinkedIn](https://www.linkedin.com/in/eugenia-musat/)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
+![Blazor](https://img.shields.io/badge/Blazor%20-%23092E20.svg?&style=for-the-badge&logo=Blazor&logoColor=FFFFFF)
+
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
